@@ -1,0 +1,29 @@
+head {
+    background-color: darkgreen;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    padding: 3%;
+    margin: 2%;
+    background-image: url("background.jpg");
+    background-size: 100%;
+    background-position-y: initial; 
+    background-blend-mode: soft-light;
+}
+
+h1 {
+    text-align: center;
+    text-shadow: green;
+    font-size: 350%;
+    font-family: 'Times New Roman', Times, serif;
+    color: greenyellow;
+}
+p {
+    text-align: center;
+    text-shadow: green;
+    font-size: 200%;
+    font-family: monospace;
+    color: lightgreen;
+    font-style: bold;
+}
